@@ -6,5 +6,3 @@ in this chapter we have studied about Python Comparison Operators , python logic
 #### Assignment 
 
 you have to practice all of these operators.
-
-
